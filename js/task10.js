@@ -1,0 +1,12 @@
+var number;
+document.write("Value after variable declaration is: "+ number);
+number = 10;
+document.write("<br>Initial value: "+ number);
+number++;
+document.write("<br>Value after increment is: "+ number);
+number +=7;
+document.write("<br>Value after addition is: "+ number);
+number--;
+document.write("<br>Value after decrement is: "+ number);
+document.write("<br>The remainder is: "+ number % 2);
+document.write("<br>The remainder is: "+ number);
